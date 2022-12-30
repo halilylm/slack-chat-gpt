@@ -1,5 +1,5 @@
 
-# Slack GPT bot
+# Slack bot assisted with ChatGPT
 Slack bot talks with you via ChatGPT.
 
 ## Environment Variables
