@@ -2,6 +2,18 @@
 # Slack GPT bot
 Slack bot talks with you via ChatGPT.
 
+## Environment Variables
+
+To run this project, you will need to add the following environment variables to your .env file
+
+`SLACK_AUTH_TOKEN`: OAUTH token you get from installed app settings in slack
+
+`SLACK_APP_TOKEN`: you get from Settings -> Basic Information -> App-Level tokens
+
+`GPT_SECRET_KEY`: Api key you get from https://beta.openai.com/account/api-keys
+
+`BOT_COLOR`: Bot color in hex
+
 ## Installation 
 
 Clone the project
