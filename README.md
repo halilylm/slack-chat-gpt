@@ -4,7 +4,9 @@ Slack bot talks with you via ChatGPT.
 
 ## Environment Variables
 
-To run this project, you need to install bot in your workspace and obtain those values below.
+To run this project, you need to install a bot in your workspace and obtain those values below. Don't forget to give permissions and scopes to this bot.
+
+
 
 `SLACK_AUTH_TOKEN`: OAUTH token you get from installed app settings in slack
 
